@@ -80,3 +80,4 @@ volumes:
   app_storage:
   mysql_data:
   redis_data:
+  nginx:
